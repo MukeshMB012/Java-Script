@@ -4,6 +4,7 @@
  */
 
 console.log("Inside intro");
+console.log("1st page of JS");
 
 // // variable declaration-> varname is a variable that currently holds undefined
 // let varName;
